@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-zc429s.indowin.cfd/sitemap.xml
